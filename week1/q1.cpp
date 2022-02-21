@@ -1,6 +1,6 @@
 /*
 This is an assignment from the repo jiit-sdf2-lab-assignments on github
-You can access it here: https://github.com/entropyconquers/jiit-sdf2-lab-assignments
+You can access it here: https://github.com/entropyconquers/jiit-sdf2-lab-assignments ~Vishesh Raheja
 Copyright 2022 Vishesh Raheja
 */
 
